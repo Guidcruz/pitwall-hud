@@ -39,7 +39,8 @@ O `Hash` tem de ser igual ao publicado (maiúsculas ou minúsculas, tanto faz).
 
 Então o **Controle Inteligente de Aplicativos** (Smart App Control) do Windows 11 está ligado. Ele bloqueia todo
 programa sem assinatura paga e não aceita exceção para um programa só, então o PitWall HUD não instala com ele ligado.
-A opção fica em Segurança do Windows → Controle de aplicativos e do navegador; desligar ou não é decisão sua.
+A opção fica em Segurança do Windows → Controle de aplicativos e do navegador; desligar ou não é decisão sua. É a mesma
+causa quando o app já está instalado, não abre e o Windows avisa "Parte deste aplicativo foi bloqueado".
 
 ---
 
@@ -61,4 +62,5 @@ wrong with the file.
 
 **Blocked, no "Run anyway"?** Windows 11 **Smart App Control** is on. It blocks every program without a paid signature
 and allows no per-app exception, so PitWall HUD can't be installed while it's on. The setting is in Windows Security →
-App & browser control; turning it off is your call.
+App & browser control; turning it off is your call. Same cause when the app is installed but won't open and Windows
+says "Part of this app has been blocked".
